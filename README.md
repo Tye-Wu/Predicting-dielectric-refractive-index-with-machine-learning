@@ -22,4 +22,8 @@ The workflow includes:
 
 ## Main result
 
-Among the tested models, `HistGradientBoostingRegressor` gave the best overall balance of predictive performance and computational efficiency on this assignment.
+Non-linear ensemble methods significantly outperform the linear baseline, indicating that the relationship between descriptors and refractive index is not purely linear.
+
+In this study, **Random Forest achieves the best performance on the held-out test set**, slightly outperforming boosting-based methods. This may reflect the relatively noisy, heterogeneous nature of the feature space, where bagging-based methods can provide stronger robustness.
+
+Overall, ensemble tree-based models consistently outperform linear models, highlighting the importance of capturing non-linear structure–property relationships in materials datasets.
