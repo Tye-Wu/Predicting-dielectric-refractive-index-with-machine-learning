@@ -1,0 +1,15 @@
+name: ai4s-matbench
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - xgboost
+  - jupyter
+  - pip
+  - pip:
+      - matminer
+      - pymatgen==2023.9.25
