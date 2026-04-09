@@ -1,7 +1,7 @@
 # Predicting-dielectric-refractive-index-with-machine-learning
 # MatBench Dielectric: Refractive Index Prediction
 
-This repository contains a small materials informatics project based on the `matbench_dielectric` dataset from MatBench. The goal is to predict the refractive index of dielectric materials using structure- and composition-derived descriptors together with classical machine learning models.
+This repository contains a small materials informatics project based on the `matbench_dielectric` dataset from [MatBench](https://matbench.materialsproject.org/). The goal is to predict the refractive index of dielectric materials using structure- and composition-derived descriptors together with classical machine learning models.
 
 ## Project overview
 
